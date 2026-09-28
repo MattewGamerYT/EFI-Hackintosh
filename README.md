@@ -12,4 +12,6 @@ GPU: AMD Radeon RX 5500 XT
 
 RAM: 16 GB
 
+MOTHERBOARD: A520M A PRO
+
 This OpenCore EFI is provided for educational and experimental purposes. Compatibility and functionality have not been verified.
